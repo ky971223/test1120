@@ -1,0 +1,5 @@
+{
+  "name": "GenAI YOLO Detector",
+  "description": "A high-performance object detection system powered by Gemini 2.5 Flash, simulating YOLO capabilities for identifying objects in images and video frames with precise bounding boxes.",
+  "requestFramePermissions": []
+}
